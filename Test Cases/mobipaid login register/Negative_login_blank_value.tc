@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Negative_login_blank_value</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e00f230a-5002-4357-8554-e376249119a5</testCaseGuid>
+</TestCaseEntity>
